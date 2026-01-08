@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #ffffff;
+  text-shadow: 3px 3px 0 #000, 3px 3px 0 #000, 3px 3px 0 #000, 3px 3px 0 #000;
+}
+
+.text {
+  font-size: 16px;
+  color: #7fa8f5;
+}
